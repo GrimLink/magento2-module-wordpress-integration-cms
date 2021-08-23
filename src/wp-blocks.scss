@@ -1,3 +1,7 @@
+// Wordpress still uses import and handles each function from 1 file
+// https://github.com/WordPress/gutenberg/blob/trunk/storybook/style.scss
+@use "sass:math";
+
 // Magento 2 layout helper
 @import "layout";
 
